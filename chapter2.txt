@@ -1,4 +1,7 @@
 
     at Layer.handle [as handle_request] (/Users/jihed/Desktop/UDEMY/fullstack/NodeJs/Capstone Project ji/node_modules/express/lib/router/layer.js:95:5)
 ^CJiheds-MBP:Capstone Project ji jihed$ cd '/Users/jihed/Desktop/UDEMY/fullstack/Git/Story'
-Jiheds-MBP:Story jihed$ touch chapter1.txt chapte
+Jiheds-MBP:Story jihed$ touch chapter1.txt chapte72,"msg":"request completed"}
+{"level":30,"time":1725979667586,"pid":42364,"hostname":"Jiheds-MBP","reqId":"req-8","req":{"method":"POST","url":"/game/submit","hostname":"[::1]:3333","remoteAddress":"::1","remotePort":63256},"msg":"incoming request"}
+{"level":30,"time":1725979667587,"pid":42364,"hostname":"Jiheds-MBP","reqId":"req-8","res":{"statusCode":200},"responseTime":0.6365820169448853,"msg":"request completed"}
+{"level":30,"time":1725979674734,"pid":4236
