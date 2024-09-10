@@ -1,0 +1,13 @@
+commit 626551852fe755db5e7e9fb25b4f4c1430a26b28 (origin/main, main)
+Author: Jihed by <jih.ben.youssef@gmail.com>
+Date:   Mon Sep 9 16:24:14 2024 +0100
+
+    chapters added
+Jiheds-MBP:Storyes jihed$ git branch 
+* jihed-test
+  main
+Jiheds-MBP:Storyes jihed$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+Jiheds-MBP:Storyes jihed$ touch chapter4.txt
+Jiheds-MBP:Storyes jihed$ 
